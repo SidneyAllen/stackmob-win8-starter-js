@@ -16,6 +16,8 @@ We use the following third party libraries our app.
   * Metro CSS 0.9.5
 
 <h3>About the App</h3>
-This is a basic todo app that shows how to initialize the StackMob library.  Perform Create, Read, Update and Delete on a todo object.  User creation and authentication is also included.  Logged in users are designated as the owner of any todo objects created.  To confirm, go to the Stackmob Data Management Dashboard.
+This is a basic todo app that shows how to initialize the StackMob library.  Perform Create, Read, Update and Delete on a todo object.  
+
+User creation and authentication is demonstrated.  To try out, create a user account, login and then create a new todo.  You will appear as the sm_owner of that todo object in the <a href="https://dashboard.stackmob.com/data/browser">Stackmob Data Management Dashboard</a>.
 
 
