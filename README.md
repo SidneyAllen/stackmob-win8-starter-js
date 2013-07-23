@@ -7,10 +7,10 @@ We've included the following libraries in a blank template project
 <h3>JavaScript Libraries</h3>
 
   * jQuery 2.0 
-  *Backbone 1.0.0
+  * Backbone 1.0.0
   * Underscore 1.4.4
-  StackMob 0.9.2
-  JSON 2
+  * StackMob 0.9.2
+  * JSON 2
 
 <h3>CSS</h3>
   Metro CSS 0.9.5
