@@ -22,9 +22,10 @@ user creation and authentication to the app.
 
 <h3>Try it out</h3>
 
+  * Download the code
   * Signup for your <a href="https://dashboard.stackmob.com/signup?source=win8starter">free StackMob Account</a>
   * Create your app and select JS Platform
-  * Copy and Paste the StackMob.Init method into the default.js file.
+  * Copy and Paste the * StackMob.Init * method into the default.js file.
   * Launch the app
 
 Now, create a user account, login and then create a new todo.  You will appear as the sm_owner of that todo object in the <a href="https://dashboard.stackmob.com/data/browser">Stackmob Data Management Dashboard</a>.
