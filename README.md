@@ -1,7 +1,7 @@
 Stackmob Windows 8 Starter JavaScript Starter
 ========================
 
-StackMob Starter project for Windows 8 using the StackMob JS SDK.  This repo contains a Todo app created in Visual Studio.
+StackMob Starter project for Windows 8 JavaScript apps.  This repo contains a Todo app created in Visual Studio.
 We've included the following libraries in a blank template project
 
 <h3>JavaScript Libraries</h3>
