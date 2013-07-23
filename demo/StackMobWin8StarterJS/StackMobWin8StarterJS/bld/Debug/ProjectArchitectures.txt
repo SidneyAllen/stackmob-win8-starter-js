@@ -1,0 +1,1 @@
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\StackMobWin8StarterJS.jsproj;neutral

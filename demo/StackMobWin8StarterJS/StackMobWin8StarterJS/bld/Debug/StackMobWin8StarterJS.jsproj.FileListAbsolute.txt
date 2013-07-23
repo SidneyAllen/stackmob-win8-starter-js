@@ -1,0 +1,13 @@
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bin\Debug\resources.pri
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bin\Debug\AppxManifest.xml
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bin\Debug\StackMobWin8StarterJS.build.appxrecipe
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\priconfig.xml.intermediate
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\layout.resfiles.intermediate
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\resources.resfiles.intermediate
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\pri.resfiles.intermediate
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\priconfig.xml
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\layout.resfiles
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\resources.resfiles
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\pri.resfiles
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\LanguageQualifiers.txt
+C:\Users\Sidney\Documents\GitHub\stackmob-win8-js-sdk-extension\StackMobWin8StarterJS\StackMobWin8StarterJS\bld\Debug\ProjectArchitectures.txt
