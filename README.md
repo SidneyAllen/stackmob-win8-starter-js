@@ -16,8 +16,17 @@ We use the following third party libraries our app.
   * Metro CSS 0.9.5
 
 <h3>About the App</h3>
-This is a basic todo app that shows how to initialize the StackMob library.  Perform Create, Read, Update and Delete on a todo object.  
+This is a basic todo app that shows how to initialize the StackMob library.  Perform Create, Read, Update and Delete on a todo object.  In addition, we've added 
+user creation and authentication to the app.  
 
-User creation and authentication is demonstrated.  To try out, create a user account, login and then create a new todo.  You will appear as the sm_owner of that todo object in the <a href="https://dashboard.stackmob.com/data/browser">Stackmob Data Management Dashboard</a>.
+
+<h3>Try it out</h3>
+
+  * Signup for your <a href="https://dashboard.stackmob.com/signup?source=win8starter">free StackMob Account</a>
+  * Create your app and select JS Platform
+  * Copy and Paste the StackMob.Init method into the default.js file.
+  * Launch the app
+
+Now, create a user account, login and then create a new todo.  You will appear as the sm_owner of that todo object in the <a href="https://dashboard.stackmob.com/data/browser">Stackmob Data Management Dashboard</a>.
 
 
