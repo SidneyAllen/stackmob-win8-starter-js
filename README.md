@@ -28,6 +28,6 @@ user creation and authentication to the app.
   * Copy and Paste the <code>StackMob.init</code> method into the default.js file.
   * Launch the app
 
-Now, create a user account, login and then create a new todo.  You will appear as the sm_owner of that todo object in the <a href="https://dashboard.stackmob.com/data/browser">Stackmob Data Management Dashboard</a>.
+Now, create a user account, login and then create a new todo.  You will appear as the sm_owner of that todo object in the <a href="https://dashboard.stackmob.com/data/browser">StackMob Data Management Dashboard</a>.
 
 
